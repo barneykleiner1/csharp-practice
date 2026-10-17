@@ -1,0 +1,6 @@
+@Day6_WebAPI_HostAddress = http://localhost:5272
+
+GET {{Day6_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
